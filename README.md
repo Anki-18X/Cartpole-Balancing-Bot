@@ -1,4 +1,4 @@
-Cartpole Balancing Bot
+# Cartpole Balancing Bot
 Overview
 The Cartpole Balancing Bot is a reinforcement learning project implemented in the OpenAI Gym environment using Q-learning. The goal is to balance a pole on a cart moving along a frictionless track by applying appropriate forces. The agent learns to maintain pole stability through trial-and-error, optimizing actions based on rewards.
 Features
